@@ -1,0 +1,2 @@
+DATABASE_URL=database.db
+SESSION_SECRET=my_super_secret_key
